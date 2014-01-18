@@ -1,0 +1,4 @@
+name: Rangeroverr Menu
+version: 1.0
+main: me.rangeroverr.menuinv.MenuInv
+description: Change your gamemode with a GUI
